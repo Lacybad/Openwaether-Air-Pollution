@@ -48,7 +48,7 @@
 
   const char* ssid     = "****************";                 // SSID of local network
   const char* password = "***********";                    // Password on network
-  String APIKEY = "**************************";                                 
+                   
   
 
   WiFiClient client;
